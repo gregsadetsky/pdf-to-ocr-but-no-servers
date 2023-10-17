@@ -125,18 +125,32 @@ function App() {
       <h2>what is this</h2>
 
       <p>
-        this is a completely free tool to convert your PDF file to text (using
-        OCR) which does not collect any of your data.
+        this is a completely free tool that lets you convert your PDF file to
+        text (using OCR) which does not collect any of your data.
       </p>
       <p>
         your PDFs NEVER leave your browser. there is no server!!! don't upload
         your PDFs to random servers!!
       </p>
       <p>
-        this was made by Greg Technology while at{" "}
-        <a href="https://www.recurse.com/">Recurse Center</a>. I've made{" "}
+        this was made by{" "}
+        <a href="https://greg.technology/" target="_blank">
+          greg
+        </a>{" "}
+        while at{" "}
+        <a href="https://www.recurse.com/" target="_blank">
+          recurse center
+        </a>
+        . i've made{" "}
         <a href="https://recurse.greg.technology/" target="_blank">
           other things
+        </a>
+        . view the{" "}
+        <a
+          href="https://github.com/gregsadetsky/pdf-to-ocr-but-no-servers"
+          target="_blank"
+        >
+          source code
         </a>
         .
       </p>
