@@ -4,7 +4,7 @@ combines [pdf.js](https://mozilla.github.io/pdf.js/) + [tesseract-wasm](https://
 
 NO SERVERS!!
 
-### how to dev/buld
+### how to dev/deploy
 
 - first time
 
